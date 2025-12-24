@@ -30,10 +30,10 @@ The testing was conducted on the **Login page** of the **DemoQA web application*
 The following documents are included in this repository:
 
 - **Software Test Plan (STP)**  
-  Defines the testing scope, strategy, environments, risks, and tools.
+  Defines the testing scope, strategy, environments, risks and tools.
 
 - **Test Cases Document**  
-  Contains 10 structured test cases covering positive, negative, validation, and navigation scenarios.
+  Contains 10 structured test cases covering positive, negative, validation and navigation scenarios.
 
 - **Bug Reports**  
   Includes 2 documented defects related to usability, accessibility and validation behavior.
